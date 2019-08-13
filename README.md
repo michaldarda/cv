@@ -1,6 +1,6 @@
 # My CV
 
-Forked from https://github.com/liantze/AltaCV, see (LICENSE.md)[LICENSE.md]
+Forked from https://github.com/liantze/AltaCV, see [LICENSE.md](LICENSE.md)
 
 ## Build
 
